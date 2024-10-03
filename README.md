@@ -17,8 +17,9 @@
    ```bash
    git clone https://github.com/besfort-biz/b64extract.git
    cd b64extract
-2.Rename the html file with base64 data as index.html and run the app.
-    ```bash
-    python3 app.py
+2. Rename the html file with base64 data as index.html and run the app.:
+   ```bash
+   python3 app.py
+   
 
 3.Data are scrapped and put in a folder assets in current dir, while on cleaned_index.html the data are now written as filenames, put the cleaned html file inside asset folder and all in one folder.
